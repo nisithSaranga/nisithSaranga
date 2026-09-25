@@ -1,16 +1,62 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nisithSaranga/nisithSaranga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Nisith Saranga 👋
 
-Here are some ideas to get you started:
+### 🧑‍🎓Software Engineering Undergraduate · Full-Stack Developer · Applied Machine Learning 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build full-stack applications and apply machine learning where it adds value, with a focus on clear interfaces and dependable backend systems.
+
+[Portfolio](https://nisithsaranga.dev) · [LinkedIn](https://www.linkedin.com/in/nisith-saranga-0529732a5/) · [Explore my work](#selected-projects)
+
+![Profile views](https://komarev.com/ghpvc/?username=nisithSaranga&label=Profile+views&color=0ea5e9&style=flat)
+
+</div>
+
+---
+
+### About me
+
+- 🎓 Final-year Software Engineering student based in Sri Lanka.
+- 🛠️ Interested in full-stack development, deployment, artificial intelligence and machine learning.
+- 🔎 Seeking a Software Engineering internship where I can contribute while learning from experienced engineers.
+- 🌐 My portfolio: **[nisithsaranga.dev](https://nisithsaranga.dev)**
+
+### Selected projects
+
+| Project | What I built |
+| --- | --- |
+| **[Confide](https://github.com/nisithSaranga/Confide)** | Privacy-focused preliminary visual screening and awareness tool for three male anogenital conditions. TensorFlow.js runs the CNN ensemble in the browser; images stay on the user's device.|
+| **[FIFA 2026 Bracket Challenge](https://github.com/nisithSaranga/fifa26-bracket-challenge)** | Full-stack football prediction platform for 2026 World Cup with real-time leaderboard and automated fixture updates built in MERN|
+| **[FixTrack](https://github.com/nisithSaranga/Fixtrack)** | Smart vehicle service and tracking platform that connects users with nearby mechanics and provides real-time updates on service progress |
+| **[OceanView Resort RMS](https://github.com/nisithSaranga/oceanview-resort-rms)** | Java EE resort reservation management system covering bookings, room pricing, and account authentication. |
+| **[SPC Pharmacy Network](https://github.com/nisithSaranga/SPC-Pharmacy-Network)** | Pharmacy network management platform with managing inventory, suppliers and orders |
+| **[Bank Term Deposit Predictor](https://github.com/nisithSaranga/bank-term-deposit-predictor)** | Machine learning project exploring predictions of bank term deposit subscriptions. |
+
+### Technologies I work with
+
+**Languages:** Java · Python · JavaScript · TypeScript · C#  
+**Frontend:** React · Next.js · Tailwind CSS  
+**Backend & data:** FastAPI · Node.js · Express · MongoDB · MySQL · Firebase   
+**Machine learning:** TensorFlow · TensorFlow.js · scikit-learn  
+**Tools:** Git · Docker · Postman
+
+### GitHub streak
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=nisithSaranga&amp;theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=nisithSaranga&amp;theme=default" />
+  <img alt="Nisith Saranga's GitHub contribution streak" src="https://streak-stats.demolab.com/?user=nisithSaranga" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+**Interested in collaborating or discussing an internship?**  
+[Visit my portfolio](https://nisithsaranga.dev) · [Connect on LinkedIn](https://www.linkedin.com/in/nisith-saranga-0529732a5/)
+
+</div>
