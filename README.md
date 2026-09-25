@@ -1,19 +1,25 @@
 <div align="center">
+  <h1>Hi, I'm Nisith Saranga 👋</h1>
 
-# Hi, I'm Nisith Saranga 👋
+  <h3>🧑‍🎓 Software Engineering Undergraduate · Full-Stack Developer · Applied ML</h3>
 
-### 🧑‍🎓Software Engineering Undergraduate · Full-Stack Developer · Applied Machine Learning 
+  <img src="./assets/typing.gif" width="150" alt="Developer typing animation" />
 
-I build full-stack applications and apply machine learning where it adds value, with a focus on clear interfaces and dependable backend systems.
+  <p>I deliver reliable full-stack systems and apply ML where it adds value.</p>
 
-[Portfolio](https://nisithsaranga.dev) · [LinkedIn](https://www.linkedin.com/in/nisith-saranga-0529732a5/) · [Explore my work](#selected-projects)
+  <p>
+    <a href="https://nisithsaranga.dev">Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/nisith-saranga-0529732a5/">LinkedIn</a> ·
+    <a href="#selected-projects">Explore my work</a>
+  </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=nisithSaranga&label=Profile+views&color=0ea5e9&style=flat)
-
+  <img
+    src="https://komarev.com/ghpvc/?username=nisithSaranga&amp;label=Profile+views&amp;color=0ea5e9&amp;style=flat"
+    alt="Profile views"
+  />
 </div>
 
 ---
-
 ### About me
 
 - 🎓 Final-year Software Engineering student based in Sri Lanka.
